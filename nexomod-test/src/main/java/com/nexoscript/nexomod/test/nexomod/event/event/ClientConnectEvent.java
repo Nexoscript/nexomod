@@ -1,4 +1,4 @@
-package com.nexoscript.nexomod.test.event;
+package com.nexoscript.nexomod.test.nexomod.event.event;
 
 import com.nexoscript.nexomod.event.api.CancellableEvent;
 

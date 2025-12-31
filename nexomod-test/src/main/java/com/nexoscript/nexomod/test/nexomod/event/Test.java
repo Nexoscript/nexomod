@@ -1,11 +1,11 @@
-package com.nexoscript.nexomod.test;
+package com.nexoscript.nexomod.test.nexomod.event;
 
 import com.nexoscript.nexomod.event.api.reflect.IEventBus;
 import com.nexoscript.nexomod.event.api.reflect.IEventFactory;
 import com.nexoscript.nexomod.event.reflect.EventBus;
 import com.nexoscript.nexomod.event.reflect.EventFactory;
-import com.nexoscript.nexomod.test.event.ClientConnectEvent;
-import com.nexoscript.nexomod.test.listener.ConnectListener;
+import com.nexoscript.nexomod.test.nexomod.event.event.ClientConnectEvent;
+import com.nexoscript.nexomod.test.nexomod.event.listener.ConnectListener;
 
 import java.util.UUID;
 
